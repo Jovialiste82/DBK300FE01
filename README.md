@@ -19,7 +19,7 @@ DobKonektor is an innovative web application designed to connect people based on
 - **Admin Panel**: A dedicated interface for administrators, offering insights into application statistics and user and coupon management.
 - **Responsive Design**: Ensures a seamless experience across various devices and screen sizes.
 
-## Technology Stack
+## Key Technologies
 
 - **React**: Utilized for building the user interface with efficiency and flexibility.
 - **Formik and Yup**: Employed for form management and validation, enhancing user input experience.
